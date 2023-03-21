@@ -17,6 +17,8 @@ HTML page animation from: <a href="https://pt.stackoverflow.com/questions/290086
 ```bash
 pip install selenium
 
+```
+
 
 4. Now just type the following command:
 ```bash

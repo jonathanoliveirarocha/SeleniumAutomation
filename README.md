@@ -1,6 +1,8 @@
 # SeleniumAutomation
 
 I made this simple project while learning how to use Selenium for web automation.
+
+
 HTML page animation from: <a href="https://pt.stackoverflow.com/questions/290086/efeito-escrita-dinamica-de-texto">Efeito escrita dinamica de texto</a>
 
 

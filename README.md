@@ -1,4 +1,4 @@
-# SeleniumAutomation
+# Selenium Automation
 
 I made this simple project while learning how to use Selenium for web automation.
 

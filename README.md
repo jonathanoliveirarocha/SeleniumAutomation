@@ -13,7 +13,12 @@ HTML page animation from: <a href="https://pt.stackoverflow.com/questions/290086
 <a href="https://github.com/mozilla/geckodriver/releases">Mozilla Firefox</a>) and move the executable file to the folder where python is installed.
 
 
-3. Now just type the following command:
+3. install Selenium in terminal:
+```bash
+pip install selenium
+
+
+4. Now just type the following command:
 ```bash
 python index.py
 
